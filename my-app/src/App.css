@@ -1,0 +1,16 @@
+body{
+    background-color: wheat;
+}
+.body{
+    text-align: center;
+    border-radius: 30px;
+    width:400px;
+    background-color: gray;
+    transform: translate(150%,100%);
+    padding: 20px 40px;
+}
+
+.heading{
+    color: white;
+    text-decoration: underline;
+}
