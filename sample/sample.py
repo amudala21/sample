@@ -50,3 +50,6 @@ def generate_text(seed_text, next_words, model, max_sequence_len):
     return seed_text
 
 print(generate_text("hell", 5, model, input_len))
+
+
+
